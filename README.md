@@ -2,6 +2,12 @@
 
 Useful tips and example commands for Claude
 
+#### Keeping Claude Up-to-Date
+
+```bash
+npm update -g @anthropic-ai/claude-code
+```
+
 #### Starting Claude
 
 ```bash
